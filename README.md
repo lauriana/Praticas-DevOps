@@ -1,4 +1,4 @@
-# Praticas-DevOps
+# Praticas DevOps
 
 Este repositório compõe o projeto de extensão com foco em uma abordagem prática e teórica para o aprendizado de DevOps do grupo de pesquisa em Computação Aplicada do Instituto Federal do Paraná - IFPR vinculado à área de Computação do IFPR campus Pinhais. 
 

@@ -6,4 +6,4 @@ O projeto consiste em introduzir estudantes e interessados a conceitos e prátic
 
 Para contribuir com o projeto, favor ler o arquivo [Extensao_Praticas_DevOps](https://github.com/lauriana/Praticas-DevOps/blob/main/Extensao_Praticas_DevOps.pdf) antes.
 
-Na [Wiki](https://github.com/lauriana/Praticas-DevOps/wiki) encontra-se o material de estudo do projeto.
+Na [Wiki](https://github.com/lauriana/Praticas-DevOps/wiki) encontra-se o material utilizado e desenvolvido do projeto.
